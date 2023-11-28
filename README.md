@@ -1,2 +1,2 @@
-# test1
+# pract3.1
 Pràctica 3.1 smr curs 23/24
